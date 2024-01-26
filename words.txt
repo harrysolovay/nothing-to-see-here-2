@@ -1,0 +1,8 @@
+clsx
+harrysolovay
+hookform
+lucide
+nextjs
+solovay
+tailwindcss
+tiptap
